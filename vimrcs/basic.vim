@@ -204,6 +204,10 @@ set ai "Auto indent
 set si "Smart indent
 set wrap "Wrap lines
 
+" Custom changes - line number and mouse support
+set number
+set mouse=a
+
 
 """"""""""""""""""""""""""""""
 " => Visual mode related
